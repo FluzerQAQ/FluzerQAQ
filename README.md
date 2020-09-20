@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FluzerQAQ&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FluzerQAQ&hide=issues,contribs&show_icons=true">
 
 ### 🔥Howdy! This is FluzerQAQ! 
 
