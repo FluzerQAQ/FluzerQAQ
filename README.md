@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🔥Howdy! This is FluzerQAQ! 
+
+🌳普通Minecraft玩家一枚，正版ID同名，喜欢鼓捣亿些小玩意
+ 
+💛来了就不要走嗷，至少给个Follow秋梨膏
 
 <!--
 **FluzerQAQ/FluzerQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
