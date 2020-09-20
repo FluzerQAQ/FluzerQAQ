@@ -4,6 +4,8 @@
  
 💛来了就不要走嗷，至少给个Follow秋梨膏
 
+![](https://github-readme-stats.vercel.app/api?username=FluzerQAQ)
+
 <!--
 **FluzerQAQ/FluzerQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
